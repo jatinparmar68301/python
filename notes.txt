@@ -1,1 +1,5 @@
 jatin parmar
+
+git config --global user.email "jatinparmar68301@gmail.com"
+
+git config --global user.name jatinparmar68301
