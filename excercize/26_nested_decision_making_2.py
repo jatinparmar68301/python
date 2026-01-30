@@ -8,11 +8,11 @@ person4=int(input("Enter person4 age :"))
 if person1==person2==person3==person4:
     print("All person are same age")
 else :
-        if person1>person2:
+        if person1<person2:
               print("person1 have a most young person ")
-        elif person2>person3:
+        elif person2<person3:
               print("person2 have a most young person ")
-        elif person3>person4:
-               print("person2 have a most young person ")
+        elif person3<person4:
+               print("person3 have a most young person ")
         else:
               print("person4 have a most young person ")
